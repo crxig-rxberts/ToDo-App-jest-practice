@@ -1,6 +1,6 @@
 # ToDo-App-jest-practice
 
-Run 'npm i' in the console to get started <br/>
+Run 'npm i' then 'npm i --save-dev jest' in the console to get started <br/>
 <br/>
 Create test folder <br/>
 <br/>
